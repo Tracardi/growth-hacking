@@ -12,6 +12,7 @@
 * https://www.producthunt.com/
 * https://betalist.com/
 * http://startup.pl/
+* https://mamstartup.pl/
 
 
 ## Resources for introduction videos
